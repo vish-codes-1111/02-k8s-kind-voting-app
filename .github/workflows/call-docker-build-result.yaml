@@ -53,7 +53,7 @@ jobs:
       image-names: |
 
         ghcr.io/vish-codes-1111/voting-app-result
-        vish-codes-1111/votingapp_result
+        vishnu1111/voting-app-result
 
       
       ### REQUIRED set rules for tagging images, based on special action syntax:
